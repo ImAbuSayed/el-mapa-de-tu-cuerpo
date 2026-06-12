@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El mapa de tu cuerpo
+
+This log tracks the cryptographic history and versioning for the song **El mapa de tu cuerpo** (el-mapa-de-tu-cuerpo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T03:52:26.247614 | `v1` | `bf70db820b7ec416d2be3ccb49b7e5c8dd85b81d275a281cf97580b6a22a886b` | `a4e6f48e2d71c1a6afe53698b72dc1204ff8a21635cdbf13194721c4c9e00839` | `2026-06-13_el-mapa-de-tu-cuerpo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-mapa-de-tu-cuerpo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: El mapa de tu cuerpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-mapa-de-tu-cuerpo/) |
+| **Get License** | [Music Rights & Licensing for El mapa de tu cuerpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-mapa-de-tu-cuerpo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `bf70db820b7ec416d2be3ccb49b7e5c8dd85b81d275a281cf97580b6a22a886b` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
